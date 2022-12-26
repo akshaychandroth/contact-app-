@@ -79,22 +79,43 @@
       "company": "Abernathy Group",
       "title": "Developer",
       "groupId": "4"
-    }
-  ],
-  "groups":[
-    {
-        "id":"1",
-        "name":"Friends"
     },
     {
-        "id":"2",
-        "name":"Family"
-    },{
-        "id":"3",
-        "name":"Collegues"
-    },{
-        "id":"4",
-        "name":"Social"
+      "id": "Ca9",
+      "photo": "https://www.kuccha.com/wp-content/uploads/2022/12/Messi-World-Cup-Trophy-Wallpaper-7.jpg",
+      "email": "messi@gmail.com",
+      "mobile": "8967362962",
+      "company": "PSG",
+      "title": "Tester",
+      "groupId": "1"
+    },
+    {
+      "id": "ca10",
+      "name": "Ronaldo",
+      "photo": "https://www2.pictures.zimbio.com/gi/Portugal+v+Switzerland+UEFA+Nations+League+GnHSh1vuQsTx.jpg",
+      "email": "ronaldo12@gmail.com",
+      "mobile": "8976098765",
+      "company": "manchester",
+      "title": "Manager",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
     }
   ]
 }
