@@ -49,4 +49,10 @@ deleteContact(contactId:any){
 
 }
 
+// update contact
+
+updateContact(contactId:any,contactBody:any){
+  return this.http.put(`${this.baseUrl}/${contactId}`,contactBody)
+}
+
 }
